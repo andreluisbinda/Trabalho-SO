@@ -1,0 +1,7 @@
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Medições temporárias geradas durante a execução
+*.tempo.txt
